@@ -1,0 +1,360 @@
+[{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ac9"
+  },
+  "plateNumber": "SK123AB",
+  "brand": "Volkswagen",
+  "model": "Golf 6",
+  "year": 2012,
+  "client": {
+    "fullName": "John Smith",
+    "phone": "070123456",
+    "email": "john.smith@example.com"
+  },
+  "services": [
+    {
+      "name": "Oil Change",
+      "price": 30,
+      "durationMinutes": 30,
+      "date": "2024-01-15",
+      "notes": "Routine oil change",
+      "mechanic": "Henry Nelson"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11aca"
+  },
+  "plateNumber": "SK456CD",
+  "brand": "Opel",
+  "model": "Corsa",
+  "year": 2015,
+  "client": {
+    "fullName": "Emma Johnson",
+    "phone": "071234567",
+    "email": "emma.johnson@example.com"
+  },
+  "services": [
+    {
+      "name": "Engine Diagnostics",
+      "price": 50,
+      "durationMinutes": 60,
+      "date": "2024-02-10",
+      "notes": "Check engine light on",
+      "mechanic": "Gabriel Scott"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11acb"
+  },
+  "plateNumber": "SK789EF",
+  "brand": "BMW",
+  "model": "X1",
+  "year": 2018,
+  "client": {
+    "fullName": "Michael Brown",
+    "phone": "072345678",
+    "email": "michael.brown@example.com"
+  },
+  "services": [
+    {
+      "name": "Brake Replacement",
+      "price": 120,
+      "durationMinutes": 90,
+      "date": "2024-03-12",
+      "notes": "Front brake pads replaced",
+      "mechanic": "Nathan Allen"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11acc"
+  },
+  "plateNumber": "SK101GH",
+  "brand": "Toyota",
+  "model": "Yaris",
+  "year": 2020,
+  "client": {
+    "fullName": "Olivia Davis",
+    "phone": "073456789",
+    "email": "olivia.davis@example.com"
+  },
+  "services": [
+    {
+      "name": "Tire Rotation",
+      "price": 25,
+      "durationMinutes": 20,
+      "date": "2024-03-28",
+      "notes": "Tires rotated",
+      "mechanic": "Elijah Green"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11acd"
+  },
+  "plateNumber": "SK112IJ",
+  "brand": "Renault",
+  "model": "Clio",
+  "year": 2016,
+  "client": {
+    "fullName": "Daniel Wilson",
+    "phone": "074567890",
+    "email": "daniel.wilson@example.com"
+  },
+  "services": [
+    {
+      "name": "Battery Replacement",
+      "price": 45,
+      "durationMinutes": 30,
+      "date": "2024-04-04",
+      "notes": "Battery dead - replaced",
+      "mechanic": "Owen Roberts"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ace"
+  },
+  "plateNumber": "SK131KL",
+  "brand": "Hyundai",
+  "model": "i20",
+  "year": 2019,
+  "client": {
+    "fullName": "Sophia Martinez",
+    "phone": "075678901",
+    "email": "sophia.martinez@example.com"
+  },
+  "services": [
+    {
+      "name": "AC Recharge",
+      "price": 70,
+      "durationMinutes": 45,
+      "date": "2024-04-15",
+      "notes": "AC not cooling",
+      "mechanic": "Mason Baker"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11acf"
+  },
+  "plateNumber": "SK415MN",
+  "brand": "Mercedes",
+  "model": "C-Class",
+  "year": 2017,
+  "client": {
+    "fullName": "David Anderson",
+    "phone": "076789012",
+    "email": "david.anderson@example.com"
+  },
+  "services": [
+    {
+      "name": "Wheel Alignment",
+      "price": 40,
+      "durationMinutes": 35,
+      "date": "2024-04-20",
+      "notes": "Pulled to the right",
+      "mechanic": "Elijah Green"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad0"
+  },
+  "plateNumber": "SK161OP",
+  "brand": "Ford",
+  "model": "Focus",
+  "year": 2014,
+  "client": {
+    "fullName": "Isabella Taylor",
+    "phone": "077890123",
+    "email": "isabella.taylor@example.com"
+  },
+  "services": [
+    {
+      "name": "Spark Plug Change",
+      "price": 60,
+      "durationMinutes": 40,
+      "date": "2024-04-25",
+      "notes": "Spark plugs changed",
+      "mechanic": "Logan Young"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad1"
+  },
+  "plateNumber": "SK718QR",
+  "brand": "Peugeot",
+  "model": "208",
+  "year": 2013,
+  "client": {
+    "fullName": "James Thomas",
+    "phone": "078901234",
+    "email": "james.thomas@example.com"
+  },
+  "services": [
+    {
+      "name": "Air Filter Replacement",
+      "price": 20,
+      "durationMinutes": 15,
+      "date": "2024-05-01",
+      "notes": "Air filter was clogged",
+      "mechanic": "Liam Wright"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad2"
+  },
+  "plateNumber": "SK192ST",
+  "brand": "Fiat",
+  "model": "Punto",
+  "year": 2011,
+  "client": {
+    "fullName": "Mia Moore",
+    "phone": "079012345",
+    "email": "mia.moore@example.com"
+  },
+  "services": [
+    {
+      "name": "Transmission Repair",
+      "price": 300,
+      "durationMinutes": 180,
+      "date": "2024-05-05",
+      "notes": "Transmission slipping",
+      "mechanic": "Noah Adams"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad3"
+  },
+  "plateNumber": "SK202UV",
+  "brand": "Dacia",
+  "model": "Duster",
+  "year": 2021,
+  "client": {
+    "fullName": "William Jackson",
+    "phone": "070987654",
+    "email": "william.jackson@example.com"
+  },
+  "services": [
+    {
+      "name": "Full Service",
+      "price": 150,
+      "durationMinutes": 120,
+      "date": "2024-05-10",
+      "notes": "General maintenance",
+      "mechanic": "Ethan Walker"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad4"
+  },
+  "plateNumber": "SK212WX",
+  "brand": "Mazda",
+  "model": "3",
+  "year": 2017,
+  "client": {
+    "fullName": "Ava White",
+    "phone": "071876543",
+    "email": "ava.white@example.com"
+  },
+  "services": [
+    {
+      "name": "Car Wash",
+      "price": 10,
+      "durationMinutes": 15,
+      "date": "2024-05-15",
+      "notes": "Car wash inside and out",
+      "mechanic": "Leo Hill"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad5"
+  },
+  "plateNumber": "SK222YZ",
+  "brand": "Audi",
+  "model": "A3",
+  "year": 2018,
+  "client": {
+    "fullName": "Benjamin Harris",
+    "phone": "072765432",
+    "email": "benjamin.harris@example.com"
+  },
+  "services": [
+    {
+      "name": "Coolant Flush",
+      "price": 55,
+      "durationMinutes": 30,
+      "date": "2024-05-20",
+      "notes": "Coolant leak repaired",
+      "mechanic": "Caleb King"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad6"
+  },
+  "plateNumber": "SK232AA",
+  "brand": "Citroen",
+  "model": "C3",
+  "year": 2012,
+  "client": {
+    "fullName": "Charlotte Martin",
+    "phone": "073654321",
+    "email": "charlotte.martin@example.com"
+  },
+  "services": [
+    {
+      "name": "Clutch Replacement",
+      "price": 250,
+      "durationMinutes": 150,
+      "date": "2024-05-25",
+      "notes": "Clutch slipping",
+      "mechanic": "Matthew Carter"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "683b18c97b17f8af04b11ad7"
+  },
+  "plateNumber": "SK242BB",
+  "brand": "Seat",
+  "model": "Ibiza",
+  "year": 2016,
+  "client": {
+    "fullName": "Lucas Thompson",
+    "phone": "074543210",
+    "email": "lucas.thompson@example.com"
+  },
+  "services": [
+    {
+      "name": "Suspension Check",
+      "price": 35,
+      "durationMinutes": 25,
+      "date": "2024-05-28",
+      "notes": "Suspension knocking sound",
+      "mechanic": "Caleb King"
+    }
+  ]
+}]
